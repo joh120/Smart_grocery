@@ -3,7 +3,7 @@
 Smart Grocery Checkout
 
 Scenario:
-A supermarket offers discounts based on total purchase amount.
+A supermarket offers discounts baseds on total purchase amount.
 
 Challenge:
 1. If total is below $50, no discount.
